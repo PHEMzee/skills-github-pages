@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Hello world!
+paragraph: Welcome to my web blog
 ---
